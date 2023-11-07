@@ -17,19 +17,21 @@ h1 {
 }
 .btn3 {
     background-color: white;
-    border-radius: 10px;
+    border-radius: 5px;
     color: black;
     font-family: sans-serif;
-    height: 40px;
-    width: 100px;
+    font-size: 20px;
+    height: 100px;
+    width: 400px;
 }
 .btn4 {
     background-color: white;
-    border-radius: 10px;
+    border-radius: 5px;
     color: black;
     font-family: sans-serif;
-    height: 40px;
-    width: 100px;
+    font-size: 20px;
+    height: 100px;
+    width: 400px;
 }
 .btn:hover {
     background-color: black;
@@ -59,16 +61,16 @@ h1 {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 4px;
     margin: 50px auto;
-    width: 200px;
+    width: 400px;
     height: 200px;
 }
 .para {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-top: -110px;
+    margin-top: -90px;
 }
 .pg {
     font-family: sans-serif;
